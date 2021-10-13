@@ -9,24 +9,24 @@ asegúrese de demostrar su comprensión de las tecnologías centrales que utiliz
 # Lo que debes saber
 
 1. Bifurca este repositorio
-2. Obtenga la lista de países disponibles de la API del país en `src/api/country.ts`
-3. Cree un formulario que le permita al usuario seleccionar un país de un menú desplegable e ingresar su población.
+2. Obten la lista de países disponibles de la API del país en `src/api/country.ts`
+3. Crea un formulario que le permita al usuario seleccionar un país de un menú desplegable e ingresar su población.
 4. Ordena los países por población
-5. Permitir que las entradas se actualicen
-6. Permitir que se eliminen las entradas
+5. Permite que las entradas se actualicen
+6. Permite que se eliminen las entradas
 7. Agrega un poco de estilo
-8. Cuando haya terminado, envíe su código y cree una nueva Pull Request.
+8. Cuando hayas terminado, envía tu código y crea una nueva Pull Request.
 9. Debes usar typescript para el test.
 
-Se ha creado un esquema básico del proyecto para ayudarlo a comenzar rápidamente, pero siéntase libre de comenzar
-desde cero si tiene una configuración preferida.
+Se ha creado un esquema básico del proyecto para ayudarte a comenzar rápidamente, pero siéntete libre de comenzar
+desde cero si tienes una configuración preferida.
 
 Utilizamos predominantemente React, Redux, StyledComponents, Node.js, Webpack, Babel
 
-Siéntase libre de usar Internet, incluidos Google y Stackoverflow, para ayudar con la tarea
+Siéntete libre de usar Internet, incluidos Google y Stackoverflow, para ayudar con la tarea
 
 ## ¿Alguna pregunta?
 
-Por favor pregunte si tiene alguna duda.
+Por favor pregunta si tienes alguna duda.
 
-¡Buena suerte y gracias por tomarse el tiempo para completar esta tarea!
+¡Buena suerte y gracias por tomarte el tiempo para completar esta tarea!
